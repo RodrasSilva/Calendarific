@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calendarific.HolidaysTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-30T10:58:58" hostname="DESKTOP-CT7GK2K" time="22.141">
+  <properties/>
+  <testcase name="getHolidaysForPortugalIn2019" classname="calendarific.HolidaysTests" time="2.122"/>
+  <testcase name="printAllHolidaysForPortugalIn2019" classname="calendarific.HolidaysTests" time="20.018"/>
+  <system-out><![CDATA[https://calendarific.com/api/v2/holidays/?&api_key=3f7a769491060037a7f77551c391c1f3d146bc13&country=PT&year=2019
+https://calendarific.com/api/v2/holidays/?&api_key=3f7a769491060037a7f77551c391c1f3d146bc13&country=PT&year=2019
+Holiday name= New Year's Day
+	 Description= New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.
+	 Date= 2019-01-01
+	 Year= 2019
+	 Month= 1
+	 Day= 1
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Carnival / Shrove Tuesday
+	 Description= Shrove Tuesday is a religious holiday that is on the day before Ash Wednesday. It is also known as the Tuesday of Carnival, which is a festive occasion among many cultures.
+	 Date= 2019-03-05
+	 Year= 2019
+	 Month= 3
+	 Day= 5
+	 Type= [Common local holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= March Equinox
+ 	 Date= 2019-03-20T21:58:32+00:00
+	 Year= 2019
+	 Month= 3
+	 Day= 20
+	 Type= [Season]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Daylight Saving Time starts
+ 	 Date= 2019-03-31T01:00:00+00:00
+	 Year= 2019
+	 Month= 3
+	 Day= 31
+	 Type= [Clock change/Daylight Saving Time]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Good Friday
+	 Description= Good Friday is a global Christian observance two days before Easter Sunday.
+	 Date= 2019-04-19
+	 Year= 2019
+	 Month= 4
+	 Day= 19
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Easter Sunday
+	 Description= Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.
+	 Date= 2019-04-21
+	 Year= 2019
+	 Month= 4
+	 Day= 21
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Liberty Day
+ 	 Date= 2019-04-25
+	 Year= 2019
+	 Month= 4
+	 Day= 25
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Labor Day / May Day
+	 Description= May Day, or Labor Day, is a day off for workers in many countries around the world.
+	 Date= 2019-05-01
+	 Year= 2019
+	 Month= 5
+	 Day= 1
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Portugal Day
+ 	 Date= 2019-06-10
+	 Year= 2019
+	 Month= 6
+	 Day= 10
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Corpus Christi
+	 Description= Corpus Christi is a Christian feast in honor of the Holy Eucharist.
+	 Date= 2019-06-20
+	 Year= 2019
+	 Month= 6
+	 Day= 20
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= June Solstice
+ 	 Date= 2019-06-21T16:54:14+01:00
+	 Year= 2019
+	 Month= 6
+	 Day= 21
+	 Type= [Season]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Assumption of Mary
+	 Description= The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.
+	 Date= 2019-08-15
+	 Year= 2019
+	 Month= 8
+	 Day= 15
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= September Equinox
+ 	 Date= 2019-09-23T08:50:13+01:00
+	 Year= 2019
+	 Month= 9
+	 Day= 23
+	 Type= [Season]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Republic Implantation
+ 	 Date= 2019-10-05
+	 Year= 2019
+	 Month= 10
+	 Day= 5
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Daylight Saving Time ends
+ 	 Date= 2019-10-27T02:00:00+01:00
+	 Year= 2019
+	 Month= 10
+	 Day= 27
+	 Type= [Clock change/Daylight Saving Time]
+	 Locations= All
+	 States= All
+
+
+Holiday name= All Saints' Day
+	 Description= Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.
+	 Date= 2019-11-01
+	 Year= 2019
+	 Month= 11
+	 Day= 1
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Restoration of Independence
+ 	 Date= 2019-12-01
+	 Year= 2019
+	 Month= 12
+	 Day= 1
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Feast of the Immaculate Conception
+	 Description= The Feast of the Immaculate Conception is a Christian observance on December 8 each year.
+	 Date= 2019-12-08
+	 Year= 2019
+	 Month= 12
+	 Day= 8
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= December Solstice
+ 	 Date= 2019-12-22T04:19:26+00:00
+	 Year= 2019
+	 Month= 12
+	 Day= 22
+	 Type= [Season]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Christmas Eve
+	 Description= Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.
+	 Date= 2019-12-24
+	 Year= 2019
+	 Month= 12
+	 Day= 24
+	 Type= [Observance]
+	 Locations= All
+	 States= All
+
+
+Holiday name= Christmas Day
+	 Description= Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.
+	 Date= 2019-12-25
+	 Year= 2019
+	 Month= 12
+	 Day= 25
+	 Type= [National holiday]
+	 Locations= All
+	 States= All
+
+
+Holiday name= New Year's Eve
+	 Description= New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.
+	 Date= 2019-12-31
+	 Year= 2019
+	 Month= 12
+	 Day= 31
+	 Type= [Observance]
+	 Locations= All
+	 States= All
+
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
